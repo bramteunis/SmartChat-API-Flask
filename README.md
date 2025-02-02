@@ -1,0 +1,2 @@
+### **Project Description:**  
+**SmartChat-API-Flask** is the backend API for the **SmartChat-Django** chatbot interface, built using **Flask**. This API handles incoming user questions, processes them using **TF-IDF (Term Frequency-Inverse Document Frequency)** for text classification, and integrates with **OpenAI** models to generate accurate, context-aware responses. The Flask API ensures smooth communication between the frontend and the AI, providing fast and intelligent replies to user queries.
